@@ -5,14 +5,21 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aaryaparadkar.aaryaparadkar)
 
 ### About me: <br>
-💻 I'm a web developer specializing in Django and JS <br>
-🎮 Experienced in Unity3D game development <br>
-⌚ Proficient in Blender for 3D modeling <br>
-💽 Expanding my expertise to include data analysis <br>
-🌱 I’m currently learning React.js <br>
-📫 How to reach me: https://www.linkedin.com/in/vedantsawant7/
+💻 Backend Developer, but sometimes Frontend as well!<br>
+☁️ Experience in Cloud deployments as well <br>
+⌚ Worked with diverse backend technologies with, Python, JS, .NET <br>
+🌱 4 years of Experience in building web technologies. <br>
+❤️ I love building projects in Python and Javascript 
 
-⚙ Backend Technologies
+<br/>
+📫 How to reach me
+<br/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vedant_Sawant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vedantsawant7/)](https://www.linkedin.com/in/vedantsawant7/)
+[![Gmail Badge](https://img.shields.io/badge/-Vedant_Sawant-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedantsawant72003@gmail.com)](mailto:vedantsawant72003@gmail.com)
+
+
+✨ My Tech Stack 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">
