@@ -8,7 +8,7 @@ Software Engineer · Data Engineer · Cloud & AI Enthusiast
   <a href="https://vedantsawant.com/">
     <img src="https://img.shields.io/badge/Portfolio-vedantsawant.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/vedantsawant7/">
+  <a href="https://www.linkedin.com/in/vedantsawant/">
     <img src="https://img.shields.io/badge/LinkedIn-Vedant%20Sawant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:vedantsawant72003@gmail.com">
