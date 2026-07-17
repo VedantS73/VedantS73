@@ -19,7 +19,6 @@ Software Engineer · Data Engineer · Cloud & AI Enthusiast
 <p align="center">
   <img src="https://img.shields.io/github/followers/VedantS73?style=social&label=Followers" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/VedantS73?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Stars" alt="GitHub Stars">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VedantS73.VedantS73" alt="Profile Visitors">
 </p>
 
 ---
@@ -138,15 +137,6 @@ Visit my portfolio to see more of my work across backend engineering, data syste
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VedantS73&show_icons=true&hide_border=true&count_private=true" alt="Vedant's GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantS73&layout=compact&hide_border=true&langs_count=8" alt="Vedant's Most Used Languages">
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I enjoy discussing backend systems, data engineering, cloud architecture, AI products and interesting software ideas.
@@ -154,7 +144,7 @@ I enjoy discussing backend systems, data engineering, cloud architecture, AI pro
 <p>
   🌐 <a href="https://vedantsawant.com/">Portfolio</a>
   &nbsp;•&nbsp;
-  💼 <a href="https://www.linkedin.com/in/vedantsawant7/">LinkedIn</a>
+  💼 <a href="https://www.linkedin.com/in/vedantsawant/">LinkedIn</a>
   &nbsp;•&nbsp;
   📧 <a href="mailto:vedantsawant72003@gmail.com">Email</a>
 </p>
